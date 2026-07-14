@@ -23,13 +23,10 @@ The goal of this project is to clean, analyze, and visualize customer review dat
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 - Microsoft Power BI
 - Microsoft Excel
-
+- Github
 ---
 
 ## 📊 Project Workflow
