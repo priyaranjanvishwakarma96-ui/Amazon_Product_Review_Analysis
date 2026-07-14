@@ -152,6 +152,3 @@ GitHub: https://github.com/priyaranjanvishwakarma96-ui
 
 ---
 
-## ⭐ If you like this project
-
-Please give this repository a ⭐ on GitHub!
